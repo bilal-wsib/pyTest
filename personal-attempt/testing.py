@@ -1,0 +1,1 @@
+print("inti shuh haiwan")
